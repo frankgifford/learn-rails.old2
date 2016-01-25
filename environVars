@@ -1,0 +1,5 @@
+export MANDRILL_USERNAME="frankgifford@hotmail.com"
+export MANDRILL_API_KEY="UERKJrWthPqK81DnHeekdQ"
+export MAILCHIMP_API_KEY="fdce5101cc042292f9f801c92fe340c6-us11"
+export MAILCHIMP_LIST_ID="c78764c7aa"
+export OWNER_EMAIL="example@example.com"
